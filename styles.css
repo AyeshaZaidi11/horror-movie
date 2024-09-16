@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  text-shadow: 2px 2px black;
+}
+
+#choices button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#choices button:hover {
+  background-color: red;
+}
